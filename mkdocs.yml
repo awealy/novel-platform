@@ -1,1 +1,7 @@
+
 site_name: Novel Platform
+theme:
+  name: material
+extra:
+  comments:
+    enabled: true
